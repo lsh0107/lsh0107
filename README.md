@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 ![lsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsh0107&show_icons=true&theme=radical)
 
 
-[![lsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lsh0107&theme=monokai)](https://github.com/lsh0107/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lsh0107&theme=github-compact)](https://github.com/lsh0107/github-readme-activity-graph)
