@@ -21,4 +21,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsh0107)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsh0107&show_icons=true&theme=radical)
+![lsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsh0107&show_icons=true&theme=radical)
+
+
+[![lsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lsh0107&theme=monokai)](https://github.com/lsh0107/github-readme-activity-graph)
